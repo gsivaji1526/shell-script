@@ -2,7 +2,7 @@
 echo "All variables:$@"
 echo "Number of variables passed:$#"
 echo "script Name: $0"
-echo "Current working directory:$pwd"
+echo "Current working directory:$PWD"
 echo "Home directory of current user:$HOME"
 echo "Which user is using running the script:$USER"
 echo "Hostname:$HOSTNAME"
